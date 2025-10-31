@@ -1,0 +1,9 @@
+h1,h2{color: aqua;}
+.bad{background-color: aquamarine;margin: 30px; ;}
+.tu{background-color: blue;}
+div:hover{color: rgb(255, 255, 255); transition: 1ms;background-color: rgb(0, 110, 255);transition: 1ms'
+    ;}
+h1:hover{color: black;transition: 1ms;}
+h2:hover{color: coral;transition: 1ms;}
+h2:hover{background-color: aqua;}
+

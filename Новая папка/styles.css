@@ -1,0 +1,9 @@
+h1{;text-align: center;border: 10px solid orange;}
+.box{
+   
+    border: 2px dotted red;
+}
+.box2{border: 2px solid rgb(0, 102, 255);}
+.box3{border: 2px ridge rgb(17, 0, 255);}
+.box4{border: 2px inset rgb(157, 255, 0);}
+.box5{border: 2px outset gray;}
