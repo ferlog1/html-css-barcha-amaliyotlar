@@ -1,0 +1,19 @@
+.box{background: linear-gradient(to bottom, red, blue, pink ) ;
+width: 35%;
+height: 35px;}
+.dox{width: 35%;
+height: 35px;
+background: linear-gradient(to bottom, red, rgb(0, 0, 0), rgb(166, 255, 0))  ;}
+.sox{
+    background: linear-gradient(to left, yellow, aqua);
+
+width: 100px;
+height: 100px;}
+.sod{
+width: 100px;
+height: 100px; background: linear-gradient(to left, black, white);}
+.sor{width: 100px;
+height: 100px;  background: linear-gradient(to top, rgb(255, 1, 221), rgb(187, 255, 0))}
+.rop{width: 100px;
+height: 100px;background: linear-gradient(to top, rgb(255, 1, 221), rgb(187, 255, 0), white,black,gray, yellow, orange, ) }
+
