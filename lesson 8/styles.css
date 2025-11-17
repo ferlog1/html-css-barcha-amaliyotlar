@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+
+.continer{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+  
+}
+
+img{width: 60px;
+height: 40px;}
+.pov{
+position: absolute;
+right: 0px;
+top: 0;
+}
+button{width: 100px;
+height: 30px;background-color: black;color: azure;}
+.box1{
+    position: absolute;
+    left: 0;
+    width: 60%;
+    height: 50%;
+}
+.box2{position: absolute;
+right: 8;
+background-color: rgb(255, 255, 255);
+width: 40%;height: 50%;}
+.q{background-color: yellow;
+width: 70;
+height: 70;
+border-radius: 50px;
+bottom: 70;
+right: 100;
+position: absolute;}
