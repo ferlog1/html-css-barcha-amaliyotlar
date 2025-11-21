@@ -1,0 +1,27 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: rgba(220, 20, 60, 0.582);
+    left: 50;
+    top: 30;
+}
+div
+{
+    position: absolute;
+}
+.box2
+{
+    height: 300px;
+    width: 400px;
+    background-color: rgb(197, 248, 197);
+    top: 55;
+    left: 75;
+}
+.box3
+{
+    height: 200px;
+    width: 200px;
+    background-color: aliceblue;
+    top: 85 ;
+    left: 95 ;
+}
