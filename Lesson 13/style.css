@@ -1,0 +1,31 @@
+body{margin: 0;
+padding: 0;}
+
+.continer{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 100px;
+border: 1px solid; 
+height: 100vh;
+flex-direction: coln;
+flex-wrap: wrap;
+flex-basis: 5%;
+}
+
+.box{
+width: 100px;
+height: 100px;
+background-color: aqua;
+border: solid 5px;
+text-align: center;
+font-size: xxx-large;
+}
+.red
+{
+background-color: azure;
+border-radius: 100px;
+order: -2 ;
+align-self: flex-star;
+position: fi;
+}
