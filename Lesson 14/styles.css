@@ -1,0 +1,82 @@
+.continer
+{
+    display: flex;
+    gap: 100px;
+    text-align: center;
+    font-size: 60px;
+}
+.box
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    color: white;
+    line-height: 100px;
+    
+    
+}
+.green
+{
+background-color: green;
+}
+.blue
+{
+    background-color: blue;
+}
+.continer2
+{
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     text-align: center;
+    font-size: 60px;
+}
+.Behruz
+{
+    background-color: greenyellow   ;
+}
+.continer3
+{
+ justify-content: center;
+     text-align: center;
+    font-size: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.box1
+{
+background-color: brown;
+  width: 200px;
+    height: 200px;
+      border-radius: 50px;
+      
+      
+}
+.y
+{background-color: aqua;}
+
+.z
+{
+background-color: chocolate;
+}
+.continer4
+{
+    flex-wrap: wrap;
+    display: flex;
+}
+.box2
+{
+    background-color: green;
+      width: 200px;
+    height: 200px;
+          border-radius: 50px;
+           text-align: center;
+    font-size: 60px;
+    gap: 100px;
+    gap: 100px;
+
+}
+
