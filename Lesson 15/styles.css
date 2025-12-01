@@ -1,0 +1,62 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: darkcyan;
+    align-items: center;
+}
+.logo
+{
+    width: 100px;
+    height: 50px;
+    
+    background-image: url(https://kun.uz/assets/66844a27/img/icons/logo-light.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+input
+{
+    width: 100px;
+    height: 30px;
+    border-radius: 35px;
+    border: 5px solid blue;
+}
+a
+{
+    text-decoration: none;
+    color: aqua;
+}
+.menu
+{
+    display: flex;
+    gap: 100px;
+}
+input::placeholder
+{
+    text-align: center;
+    color: blue;
+}
+.box
+{
+    background-color: blue;
+    height: 90vh;
+    flex-grow: 2;
+    line-height: 90vh;
+    text-align: center;
+    
+}
+main
+{
+    gap: 10px;
+    display: flex;
+}
+.red
+{
+    flex-grow: 1;
+    background-color: red;
+}
