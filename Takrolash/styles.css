@@ -1,0 +1,52 @@
+.menu
+{
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
+nav
+{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    padding-inline: 20px;
+    align-items: center ;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont
+{
+  height: 50px;
+  width: 900px; 
+   
+
+}
+main
+{
+    margin: 150px auto;
+}
+.img
+{
+    display: flex;
+    justify-content: right;
+}
+.About
+{
+    justify-content: left;
+    width: 500px;
+}
+.clients
+{   justify-content: right;
+    width: 500px;}
+.sama
+{
+    display: flex;
+    flex-wrap: wrap;
+}
