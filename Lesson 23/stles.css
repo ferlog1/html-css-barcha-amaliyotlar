@@ -1,0 +1,73 @@
+main
+{
+    display:flex ;
+    width: 80%;
+    margin: 150px auto;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+img
+{
+    width: 300px;
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1
+{
+    font-size: 30px;
+    color: blue;
+    font-weight: 100;
+    
+}
+
+
+*::selection{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+}
+.mainrigh
+{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    flex-basis: 350px;
+    row-gap: 20px;
+}
+button
+{
+    width: 200px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+h1:hover
+{
+background-color: aqua;
+color: white;
+}
+p:hover
+{
+background-color: rgb(0, 0, 0);
+color: rgb(255, 0, 0);
+}
+img:hover
+{
+background-color: rgb(255, 0, 0);
+color: white;
+border-radius: 100%;
+}
+button:active
+{
+background-color: rgb(0, 0, 0);
+color: white;
+}
+
+
+
