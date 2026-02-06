@@ -1,0 +1,47 @@
+button
+{
+    width: 200px;
+    height: 40px;
+    border: none;
+}
+.blue
+{
+    background-color: blue;
+    color: white;
+}
+.red
+{
+    background-color: red;
+    color: white;
+}
+.green
+{
+    background-color: green;
+    color: white;
+}
+.b,.g,.r
+{
+    flex-direction: column;
+    display: flex;
+    gap: 50px;
+}
+main
+{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.w
+{
+    border-radius: 20px;
+}
+.q
+{
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.d
+{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
