@@ -1,0 +1,52 @@
+.box
+{
+    width: 500px;
+    height: 500px;
+    box-shadow: 8px 8px 12px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.q
+{
+position: absolute;
+left: 760px;
+    border-top: 6px solid red;
+
+}
+.w
+{
+    position: absolute;
+    left: 760px;
+    top: 700px;
+    border-top: 6px solid orange;
+
+}
+.e
+{
+    top: 340px;
+    left: 10px;
+    position: absolute;
+     border-top: 6px solid greenyellow;
+
+}
+h1
+{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+p{
+    margin: 30px;
+}
+img
+{
+    width: 150px;
+    margin-left: 300px;
+    height: 150px;
+}
